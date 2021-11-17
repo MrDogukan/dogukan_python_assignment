@@ -1,1 +1,3 @@
 # dogukan_python_assignment
+
+it is first python assignment.
