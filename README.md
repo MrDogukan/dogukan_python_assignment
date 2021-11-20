@@ -2,3 +2,5 @@
 
 it is first python assignment.
 Clarusway it fundemantals tech community
+
+print("hello world")
